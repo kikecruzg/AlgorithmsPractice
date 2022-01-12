@@ -15,6 +15,9 @@ public class LongestCommonPrefix {
 	            
 	            if(firstLetter == strs[i].charAt(0)) {
 	            	System.out.println("Si es");
+	            }else {
+	            	System.out.println("No es");
+	            	
 	            }
 	            
 	            
